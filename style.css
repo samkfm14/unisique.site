@@ -1,0 +1,190 @@
+header{
+    margin:0;
+    background-color : #6eb4cc;
+    background-position: top;
+}
+body{
+    margin:0;
+    background-color : #cae6ee;
+}
+
+.logo{
+    display: inline-block;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    text-align:center;
+    color:white;
+    text-shadow:3px 3px 0px blue;
+    padding-block: initial;
+    padding-left:505px;
+}
+
+.bonus{
+    color:#6eb4cc;
+}
+
+.bann{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    text-align:justify;
+    color:white;
+    padding-left: 20px;
+}
+
+.crumbs ul {
+  list-style-type: none;
+  font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    text-align:center;
+    padding-bottom:20px;
+}
+
+.crumb {
+  display: inline-block;
+  font-size:2;
+  padding-left: 20px;
+  padding-right:100px;
+  padding-block: initial;
+}
+
+.crumb a::after {
+  display: inline-block;
+}
+a:hover {
+    color:white;
+}
+.titre{
+    color : white;
+    font-size:50px;
+    text-shadow: 5px 5px 0px rgba(0,0,0,0.2);
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-align:center;
+    padding:150px;
+    background-image : url("images/aliene.jpeg");
+
+}
+.reseau{
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 40px;
+    padding-left:50px;
+    font-style: normal;
+    text-align:left;
+    color:white;
+    text-shadow: 5px 5px 0px #6eb4cc;
+}
+.contact{
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 30px;
+    padding-left:50px;
+    font-style: normal;
+    text-align:left;
+    color:white;
+    padding-bottom:20px;
+}
+.title{
+    color:black;
+     font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 50px;
+    padding:20px;
+    text-align:center;
+
+}
+.text{
+    color : black;
+    font-size: 25px;
+    padding:20px;
+    text-align : center;
+}
+.portrait1{
+    display: inline-block;
+    text-align:center;
+
+}
+footer{
+    background-color:#6eb4cc;
+    padding-top:20px;
+    border-top: 10px black solid;
+}
+.port{
+    display: inline-block;
+    text-align:center;
+    padding-left:130px;
+}
+.titre2{
+     font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+    color:white;
+    text-align:center;
+    text-shadow: 5px 5px 5px #6eb4cc;
+}
+.image{
+    display: block;
+    width: 30%;
+    margin: auto;
+    padding-right:250px;
+    padding-bottom:20px;
+
+}
+mark{
+    color:#6eb4cc;
+}
+strong{
+    color:#6eb4cc;
+}
+.detour{
+    float:left;
+}
+.special{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    color:#6eb4cc;
+    text-shadow:3px 3px 3px white;
+    padding-left:30px;
+}
+.sous-special{
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    color:white;
+    text-shadow: 3px 3px 3px #6eb4cc;
+    text-align: center;
+}
+.alien{
+    float:right;
+    padding-right:10px;
+}
+.sous{
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 50px;
+    padding-left:50px;
+    font-style: normal;
+    color:white;
+    text-shadow: 3px 3px 3px #6eb4cc;
+}
+.hello{
+    font-family: "Antonio", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 30px;
+    padding-left:50px;
+    font-style: normal;
+    text-align:center;
+    color:white;
+    padding-bottom:20px;
+}
